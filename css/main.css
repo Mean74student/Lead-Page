@@ -176,6 +176,7 @@ input:hover{
 .company-role{
     display: flex;
     margin-bottom: 20px;
+    gap: 40px;
 }
 .company1 ,.role{
     flex: 1;
